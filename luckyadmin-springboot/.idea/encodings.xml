@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bin/luckyadmin-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/res/cron/cron.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luckyadmin-system" charset="UTF-8" />
+  </component>
+</project>

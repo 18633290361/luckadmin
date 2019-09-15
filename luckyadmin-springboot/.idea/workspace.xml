@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5f35b1-7361-40ec-9a83-25403a38b669" name="Default Changelist" comment="QQ绑定账号的页面" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-framework/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-generator/target/" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-admin/target/" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-system/target/" />
+    <ignored path="$PROJECT_DIR$/luckyadmin-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/monitor/server</find>
+      <find>sys.user.initPassword</find>
+      <find>Toastr</find>
+      <find>layer</find>
+      <find>dict</find>
+      <find>sys.app.name</find>
+      <find>登录成功</find>
+      <find>ryNoParams</find>
+      <find>CalcRunTime</find>
+      <find>.js</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\java\com\luckyadmin\web\controller\system</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luckyadmin/Menu/entity/MyMenu.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/MyMenu.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/core/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/util/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/shiro/realm/UserRealm.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysUser.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysUserOnlineMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysUserPostMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysUserRoleMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysRoleMenuMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysRoleMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysRoleDeptMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysPostMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysOperLogMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysNoticeMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysMenuMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysLogininforMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysDictTypeMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysDictDataMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysDeptMapper.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/user/add.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/shiro/web/filter/sync/SyncOnlineSessionFilter.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/LuckyadminApplication.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SettingsController.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/config/edit.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/settings/settings.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/manager/factory/AsyncFactory.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/service/impl/SysLogininforServiceImpl.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/i18n/messages.properties" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/oauth_bind.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-quartz/src/main/java/com/luckyadmin/quartz/util/ScheduleUtils.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-quartz/src/main/java/com/luckyadmin/quartz/task/RyTask.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-common/src/main/java/com/luckyadmin/common/utils/spring/SpringUtils.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-quartz/src/main/java/com/luckyadmin/quartz/task/DemoTask.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/res/cron/jquery.easyui.min.js" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/common/CommonController.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/res/cron/cron.html" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/util/QQConnectUtil.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/OauthController.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-framework/src/main/java/com/luckyadmin/framework/shiro/service/SysLoginService.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/application-druid.yml" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysIndexController.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/user/edit.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="60" />
+    <option name="width" value="1690" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ehcache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="i18n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luckyadmin-springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luckyadmin-springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="luckyadmin-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565677643399" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yifen/yifenproject" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\resources\static\res\cron" />
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\resources\static" />
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\resources\templates" />
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\resources\static\img" />
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-framework\src\main\java\com\luckyadmin\framework\util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luckyadmin.web.controller.system" />
+      <recent name="com.luckyadmin.framework.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\eclipsekongjian\桌面文件夹\luckyadmin-springboot\bin" />
+      <recent name="D:\WorkSpace\IDEA\luckyadmin-springboot\luckyadmin-admin\src\main\resources\static\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LuckyadminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="luckyadmin-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luckyadmin.LuckyadminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5f35b1-7361-40ec-9a83-25403a38b669" name="Default Changelist" comment="" />
+      <created>1563171390827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563171390827</updated>
+      <workItem from="1563171392414" duration="14016000" />
+      <workItem from="1563355584824" duration="1927000" />
+      <workItem from="1563500630972" duration="4786000" />
+      <workItem from="1563539752437" duration="2979000" />
+      <workItem from="1563610832358" duration="944000" />
+      <workItem from="1563764589642" duration="2645000" />
+      <workItem from="1563802712712" duration="1052000" />
+      <workItem from="1563933283968" duration="4105000" />
+      <workItem from="1563949517527" duration="39000" />
+      <workItem from="1563950347381" duration="332000" />
+      <workItem from="1564015165177" duration="4551000" />
+      <workItem from="1564111758886" duration="15051000" />
+      <workItem from="1564140481215" duration="4397000" />
+      <workItem from="1564145144699" duration="2076000" />
+      <workItem from="1564282932383" duration="3989000" />
+      <workItem from="1564359667595" duration="19545000" />
+      <workItem from="1564545138153" duration="34114000" />
+      <workItem from="1565770722771" duration="9000" />
+      <workItem from="1565938076154" duration="813000" />
+      <workItem from="1565940234463" duration="60000" />
+      <workItem from="1566211409680" duration="374000" />
+      <workItem from="1566219572412" duration="98000" />
+    </task>
+    <task id="LOCAL-00001" summary="上传项目">
+      <created>1563191639255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563191639256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="一些修改">
+      <created>1563533357839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563533357840</updated>
+    </task>
+    <task id="LOCAL-00003" summary="加入Lombok依赖，swagger扫码controller，">
+      <created>1564016481780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564016481780</updated>
+    </task>
+    <task id="LOCAL-00004" summary="把Mybatis升级到MybatisPlus环境">
+      <created>1564027313007</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564027313007</updated>
+    </task>
+    <task id="LOCAL-00005" summary="部分文字修改">
+      <created>1564122193337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564122193337</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修正Mapper泛型的问题">
+      <created>1564143058198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564143058198</updated>
+    </task>
+    <task id="LOCAL-00007" summary="有一些优化">
+      <created>1564147024587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564147024587</updated>
+    </task>
+    <task id="LOCAL-00008" summary="QQ登录相关，还不能用">
+      <created>1564147206911</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564147206911</updated>
+    </task>
+    <task id="LOCAL-00009" summary="QQ绑定账号的页面">
+      <created>1564293691974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564293691974</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117973000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3147651" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34419262" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32848233" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32952183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Preview" order="10" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传项目" />
+    <MESSAGE value="一些修改" />
+    <MESSAGE value="加入Lombok依赖，swagger扫码controller，" />
+    <MESSAGE value="把Mybatis升级到MybatisPlus环境" />
+    <MESSAGE value="部分文字修改" />
+    <MESSAGE value="修正Mapper泛型的问题" />
+    <MESSAGE value="有一些优化" />
+    <MESSAGE value="QQ登录相关，还不能用" />
+    <MESSAGE value="QQ绑定账号的页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="QQ绑定账号的页面" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/luckyadmin-generator/src/main/java/com/luckyadmin/generator/domain/ColumnConfigInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-generator/src/main/java/com/luckyadmin/generator/domain/TableInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/user/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/user/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="190" column="21" selection-start-line="190" selection-start-column="21" selection-end-line="190" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368">
+          <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/login_icons.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/progress.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/profile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/login-background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/loading-upload.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/loading.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/blue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/static/img/qrcode_luckyadmin.itshidu.com.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/error/unauth.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/system/user/profile/avatar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysRoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/mapper/SysUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="161" column="50" selection-start-line="161" selection-start-column="50" selection-end-line="161" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding>
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="e#2892#2893#0" expanded="true" />
+            <element signature="e#2948#2949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/service/ISysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/utils/file/FileUploadUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2418">
+          <caret line="166" column="1" lean-forward="true" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_181/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/annotation/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/annotation/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/annotation/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/annotation/DataScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/base/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#1282#1283#0" expanded="true" />
+            <element signature="e#1331#1332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysDictTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.23/snakeyaml-1.23-sources.jar!/org/yaml/snakeyaml/Yaml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="450" column="17" selection-start-line="450" selection-start-column="17" selection-end-line="450" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/utils/YamlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="85" lean-forward="true" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_181/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+          <folding>
+            <element signature="e#5060#5061#0" expanded="true" />
+            <element signature="e#5113#5114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/luckyadmin-common/src/main/java/com/luckyadmin/common/config/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="136" column="39" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#631#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.1.RELEASE/spring-boot-2.1.1.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/tool/BuildController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/tool/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/common/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/application-druid.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/controller/system/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3100">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/web/core/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-admin/src/main/java/com/luckyadmin/LuckyadminServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysUserOnline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysUserPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luckyadmin-system/src/main/java/com/luckyadmin/system/domain/SysUserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

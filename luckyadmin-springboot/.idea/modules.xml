@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin.iml" filepath="$PROJECT_DIR$/luckyadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-admin/luckyadmin-admin.iml" filepath="$PROJECT_DIR$/luckyadmin-admin/luckyadmin-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-common/luckyadmin-common.iml" filepath="$PROJECT_DIR$/luckyadmin-common/luckyadmin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-framework/luckyadmin-framework.iml" filepath="$PROJECT_DIR$/luckyadmin-framework/luckyadmin-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-generator/luckyadmin-generator.iml" filepath="$PROJECT_DIR$/luckyadmin-generator/luckyadmin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-quartz/luckyadmin-quartz.iml" filepath="$PROJECT_DIR$/luckyadmin-quartz/luckyadmin-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luckyadmin-system/luckyadmin-system.iml" filepath="$PROJECT_DIR$/luckyadmin-system/luckyadmin-system.iml" />
+    </modules>
+  </component>
+</project>

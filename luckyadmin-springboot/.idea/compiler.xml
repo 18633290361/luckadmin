@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="luckyadmin-framework" />
+        <module name="luckyadmin-generator" />
+        <module name="luckyadmin-quartz" />
+        <module name="luckyadmin-system" />
+        <module name="luckyadmin-common" />
+        <module name="luckyadmin-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="luckyadmin" target="1.8" />
+      <module name="luckyadmin-admin" target="1.8" />
+      <module name="luckyadmin-common" target="1.8" />
+      <module name="luckyadmin-framework" target="1.8" />
+      <module name="luckyadmin-generator" target="1.8" />
+      <module name="luckyadmin-quartz" target="1.8" />
+      <module name="luckyadmin-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
