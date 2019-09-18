@@ -29,7 +29,7 @@ import com.luckyadmin.framework.config.ServerConfig;
 /**
  * 通用请求处理
  * 
- * @author luckyadmin
+ * @author 
  */
 @Controller
 public class CommonController
